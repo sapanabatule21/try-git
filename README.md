@@ -1,2 +1,2 @@
-# try-git
+# git-try
 Welcome
